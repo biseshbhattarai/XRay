@@ -22,7 +22,7 @@ sudo pip3 install BeautifulSoup4
 
 
 ```bash
-./main 
+./main.py 
 ```
 Below is a screenshot 
 
